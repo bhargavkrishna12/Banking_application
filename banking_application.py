@@ -5,11 +5,8 @@ class user():
         self.gender = gender
     def show_details(self):
         print('-------customer_Details--------------')
-<<<<<<< HEAD
         print('HelloWorld')
-
-=======
->>>>>>> origin/main
+        
         print("Name :",self.name)
         print("age :",self.age)
         print("Gender :",self.gender)
